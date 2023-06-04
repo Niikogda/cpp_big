@@ -30,4 +30,4 @@ int main() {
     cout << "Ğåçóëüòàò: " << result << endl;
 
     return 0;
-}
+} 
